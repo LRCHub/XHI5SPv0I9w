@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "革命的閃光弾",
+  "base_artist": "Sano ibuki",
+  "createdAt": "2026-02-13T15:59:28.094788Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "革命的閃光弾",
+      "artist": "Sano ibuki",
+      "has_synced": false,
+      "path": "select/pl_01_革命的閃光弾_Sano_ibuki.txt"
+    }
+  ]
+}
